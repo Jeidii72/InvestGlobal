@@ -1,0 +1,6 @@
+@InvestAI_HostAddress = http://localhost:5074
+
+GET {{InvestAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
